@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775282042743",
+    "firebase_url": "https://fir-databasecrud-d90a6.firebaseio.com",
+    "project_id": "fir-databasecrud-d90a6",
+    "storage_bucket": "fir-databasecrud-d90a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775282042743:android:603e937e9020f70f",
+        "android_client_info": {
+          "package_name": "com.example.acer.firebasedatabasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775282042743-bak4bv9qkl7npmlchlgbecrbblbnvjsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.firebasedatabasecrud",
+            "certificate_hash": "c8455c2e6b14b70242ce8475930907a29b93c99c"
+          }
+        },
+        {
+          "client_id": "775282042743-1cqeluavgfiuv7tese6s9vi9jr2sd7ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqy7TyjarNtdUnA4IZvQzvjCONIf0gYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775282042743-1cqeluavgfiuv7tese6s9vi9jr2sd7ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
